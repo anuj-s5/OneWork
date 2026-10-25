@@ -1,0 +1,8 @@
+{
+  "name": "neon-four",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A live two-player Connect Four game with room codes",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
